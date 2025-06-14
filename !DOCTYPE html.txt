@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Teste de Anúncio</title>
+</head>
+<body>
+  <script async="async" data-cfasync="false" src="//pl26207474.profitableratecpm.com/50caba42b87731fd76c0e04b73f98694/invoke.js"></script>
+  <div id="container-50caba42b87731fd76c0e04b73f98694"></div>
+</body>
+</html>
